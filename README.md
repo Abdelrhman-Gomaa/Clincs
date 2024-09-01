@@ -7,7 +7,8 @@
 
   <p align="center">
   Clinics Management System Backend <br>
-    This backend API is designed to manage clinics, doctors, patients, and notes within a medical system. Built using NestJS and MongoDB with Mongoose, this API provides essential functionalities for creating and managing clinics, doctors, patients, and the notes exchanged between doctors and patients.
+    This backend API is designed to manage clinics, doctors, patients, and notes within a medical system. Built using NestJS and MongoDB with Mongoose, this API provides essential functionalities for creating and managing clinics, doctors, patients, and the notes exchanged between doctors and patients.<br>
+    Note*: project have a swagger UI with path: host:port/clinic
   </p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
